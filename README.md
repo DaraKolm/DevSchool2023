@@ -10,8 +10,10 @@ Also this is a great oportunity to meet new people, especially for freshman stud
 
 ### Code editor
 
-If you do have any code editor with node.js in it, you can just clone repository there and use
-`node <filename>.js` in terminal of the folder to run task named _filename.js_ or just use _Run_ sign
+If you do have any code editor with node.js in it, you can just clone repository there and
+
+- use `node <filename>.js` in terminal of the folder to run task named `filename.js`  or
+-  just use _Run_ sign
 
 ### I don't want to open code editor
 

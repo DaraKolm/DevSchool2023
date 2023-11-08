@@ -3,7 +3,7 @@
 ## Intro
 
 Hi. My name is Dara and this is my GitHub repo for homewokrs done during **DevSchool 2023**. This a course organized by my faculty's Student Government where initiative and willing students act as mentors to 
-> help their fellow students and teachers gaining a bit more knowledge and practical experience in a new field
+> help their fellow students and teachers gain a bit more knowledge and practical experience in a new field
 
 Also this is a great oportunity to meet new people, especially for freshman students, but, in a time of online classes, crucial to all of us
 ## How to run a task

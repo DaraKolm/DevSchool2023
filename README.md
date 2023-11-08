@@ -16,12 +16,14 @@ If you do have any code editor with node.js in it, you can just clone repository
 ### I don't want to open code editor
 
 Well, then you can easily choose one or more files and do next steps:
-**!Notice, that you still have to _have node.js installed_ and it's better be LTS at the time of November 2023**
+
+>**!Notice, that you still have to _have node.js installed_ and it's better be LTS at the time of November 2023**
+>
 * _Step 1:_ Save your javascript with . js extension.  Which is already done here, so you only have to download the file.
 * _Step 2:_ Open the command prompt.
 * _Step 3:_ Locate your path where the . js file is saved.
 * _Step 4:_ To compile the .js file we have to write `Node <Filename>.js`
 * _Step 5:_ Press the Enter key.
 
-Congrats! You've managed to run taks's files. Here you go, have a nice cat image :smiley:
+Congrats! You've managed to run taks's files. Here you go, have a nice cat pic :smiley:
 ![picture of a cat](https://cdn.shopify.com/s/files/1/0344/6469/files/5jft3680t4g41.jpg?v=1599677663)

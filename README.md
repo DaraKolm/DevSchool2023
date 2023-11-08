@@ -24,4 +24,4 @@ Well, then you can easily choose one or more files and do next steps:
 * _Step 5:_ Press the Enter key.
 
 Congrats! You've managed to run taks's files. Here you go, have a nice cat image :smiley:
-![picture of a cat]()
+![picture of a cat](https://cdn.shopify.com/s/files/1/0344/6469/files/5jft3680t4g41.jpg?v=1599677663)

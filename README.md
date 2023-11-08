@@ -19,7 +19,7 @@ If you do have any code editor with node.js in it, you can just clone repository
 
 Well, then you can easily choose one or more files and do next steps:
 
->**!Notice, that you still have to _have node.js installed_ and it's better be LTS at the time of November 2023**
+>**!Notice, that you still have to _have node.js installed_ and it's better be at least LTS at the time of November 2023**
 >
 * _Step 1:_ Save your javascript with . js extension.  Which is already done here, so you only have to download the file.
 * _Step 2:_ Open the command prompt.

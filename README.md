@@ -1,4 +1,4 @@
-# DevSchool2023_public
+# DevSchool2023
 
 ## Intro
 
